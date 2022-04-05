@@ -34,3 +34,8 @@ step 6 : mine block
 
 
 step 7 : to see the same block in any node just follow the step 5 with port where chain is not updated.
+
+References :
+https://www.mygreatlearning.com/academy/courses/1033215/13502#?utm_source=share_with_friends
+https://github.com/Aena11/blockchain.git
+
