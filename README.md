@@ -23,9 +23,11 @@ Simple blockchain POC using python flask, anaconda spyder
 ![image](https://user-images.githubusercontent.com/43343732/161746622-b596cb86-9e03-4a0c-8b88-2e13f5694571.png)
 
 
-**step 5 : before mining block replace your chain
-step 6 : mine block
-step 7 : to see the same block in any node just follow the step 5 with port where chain is not updated.**
+**step 5 : before mining block replace your chain**
+
+**step 6 : mine block**
+
+**step 7 : to see the same block in any node just follow the step 5 with port where chain is not updated.**
 
 ![image](https://user-images.githubusercontent.com/43343732/161746854-faeac713-d9ba-48ea-aeef-b0ee160d9847.png)
 
