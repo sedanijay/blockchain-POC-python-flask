@@ -1,4 +1,4 @@
-# blockchain_POC
+# blockchain-POC-python-flask
 Simple blockchain POC using python flask, anaconda spyder
 
 1) download and install anaconda
